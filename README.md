@@ -61,12 +61,6 @@
 
 <br/>  
 
-
-## Music
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=36jwyp5rygn3i3mjq7sc2iiig&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Lunatik-cyber&&style=flat-square" align="center" />
 </div>  
