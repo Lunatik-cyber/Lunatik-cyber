@@ -9,7 +9,7 @@
 
 - 👨‍💻 Все мои проекты доступны >>> **[ТУТ](https://github.com/Lunatik-cyber?tab=repositories)**
 
-- 📫 Связь >>> **astrofic.guru@gmail.com** | Telegram: [**@ShellRok**](https://t.me/ShellRok)  
+- 📫 Связь >>> **astrofic.guru@gmail.com**
 
 <h3 align="left">Мои контакты:</h3>
 <p align="left">
