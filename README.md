@@ -3,7 +3,7 @@
 </div>  
   
 
-<h1 align="center">Здарова 👋, называйте меня просто Лунатик</h1>
+<h1 align="center">Здарова 👋, зовите меня просто Лунатик</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lunatik-cyber&label=Profile%20views&color=000000&style=flat" alt="lunatik-cyber" /> </p>
 
