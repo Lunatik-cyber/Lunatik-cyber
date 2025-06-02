@@ -7,6 +7,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lunatik-cyber&label=Profile%20views&color=000000&style=flat" alt="lunatik-cyber" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lunatik-cyber&theme=onedark)]
+
 - 👨‍💻 Все мои проекты доступны >>> **[ТУТ](https://github.com/Lunatik-cyber?tab=repositories)**
 
 - ✔ Делаю скрипты и ботов на заказ писать в TG >>> **[@ShellRok](https://t.me/ShellRok)**
